@@ -3,3 +3,6 @@ https://www.loom.com/share/e51ff3e5fd5a4b888b474e50bba6bc2a
 
 Project repo
 https://github.com/Malleas/CST201
+
+Week 2 Single linked list assignment video
+https://www.loom.com/share/6bcc5455d3384146923add66cd25b051
