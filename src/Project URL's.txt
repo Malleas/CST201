@@ -5,4 +5,4 @@ Project repo
 https://github.com/Malleas/CST201
 
 Week 2 Single linked list assignment video
-https://www.loom.com/share/6bcc5455d3384146923add66cd25b051
+https://www.loom.com/share/af3101fd5a6e462bb9b01f79310e56a9

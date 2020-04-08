@@ -89,7 +89,7 @@ public class SinglyLinkedList<T> {
 
   public void reverse() {
     Node currentNode = tail;
-    if(tail == null){
+    if (tail == null) {
       currentNode = head;
     }
     while (currentNode != null) {
@@ -98,4 +98,12 @@ public class SinglyLinkedList<T> {
     }
   }
 
+  public void merge(SinglyLinkedList secondList) {
+    if (this.tail == null) {
+      this.tail = secondList.head;
+    } else {
+      this.tail.next = secondList.head;
+    }
+    this.tail = secondList.tail;
+  }
 }

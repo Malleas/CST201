@@ -21,7 +21,9 @@ public class Assignment1Driver {
     myList.insert("matt");
 
     //create a second list for merging
-
+    secondList.insert("stuff");
+    secondList.insert("and");
+    secondList.insert("things");
 
     //check to see if the list is now empty
     System.out.println("Is myList empty post insertion? " + myList.isEmpty());
@@ -51,11 +53,10 @@ public class Assignment1Driver {
     System.out.println("New size post pop_back() " + myList.size());
 
     //merge myList and secondList
-    SinglyLinkedList copiedList = new SinglyLinkedList(myList);
-    copiedList.insert("stuff");
-    copiedList.insert("and");
-    copiedList.insert("things");
-    System.out.println(copiedList.front() + " " + copiedList.back());
+
+    myList.merge(secondList);
+    System.out.println(myList.front());
+    System.out.println(myList.back());
 
   }
 }
