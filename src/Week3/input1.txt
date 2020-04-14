@@ -1,0 +1,1 @@
+(Hello, (this is the text from {Input 1} and it has several characters like [this])
