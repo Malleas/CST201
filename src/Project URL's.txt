@@ -11,3 +11,6 @@ https://www.loom.com/share/af3101fd5a6e462bb9b01f79310e56a9
 
 Week 2 Double linked list assignment video
 https://www.loom.com/share/1c6ccfb39b2041b295baf818cbaa25dd
+
+Week 3 Stacks and Queue's assignment video
+https://www.loom.com/share/61896150263549169838fa17fbfdcf3e
