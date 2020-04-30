@@ -17,3 +17,6 @@ https://www.loom.com/share/61896150263549169838fa17fbfdcf3e
 
 Week 4 Recursion assignment video
 https://www.loom.com/share/193971b3b53943f183acb59957aed82d
+
+Week 5 Binary Tree video
+https://www.loom.com/share/0510061fb5da419285a1eaa6a61eaac2
