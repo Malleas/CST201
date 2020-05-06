@@ -8,13 +8,13 @@ import java.util.Scanner;
 /**
  * All work is created by Matt Sievers on 04-28-2020 for use in CST-201
  */
-public class Week6Driver {
+public class Week5Driver {
 
   public static void main(String[] args) throws IOException {
     Assignment6 theTree = new Assignment6();
     Helpers helpers = new Helpers();
 
-    ArrayList<String> inputArray = helpers.splitString("/Users/ntqams30/Dropbox/GCU Work/CST-201/src/Week5/week6Input.txt");
+    ArrayList<String> inputArray = helpers.splitString("/Users/ntqams30/Dropbox/GCU Work/CST-201/src/Week5/week5Input.txt");
     System.out.println(inputArray.toString());
 
     for (int i = 0; i <= inputArray.size() - 1; i++) {
