@@ -23,3 +23,6 @@ https://www.loom.com/share/0510061fb5da419285a1eaa6a61eaac2
 
 Week 6 Hash Tables video
 https://www.loom.com/share/7ecdec1e207341fb8f990db29c22a1b6
+
+Week 7 Graphs video
+https://www.loom.com/share/1c9b69fb85894f82a9cf6ab869bd9c9e
